@@ -19,12 +19,12 @@ Steganography is the practice of concealing secret information within an image i
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/secure-steganography.git
+   git clone https://github.com/pnavaneethreddy/Secure-Data-Hiding-in-Images-using-Steganography.git
    cd secure-steganography
    ```
 2. Install dependencies:
    ```sh
-   pip install -r requirements.txt
+   pip install opencv-python requirements.txt
    ```
 
 ## Usage
