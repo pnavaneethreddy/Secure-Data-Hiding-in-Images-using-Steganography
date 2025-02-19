@@ -30,12 +30,12 @@ Steganography is the practice of concealing secret information within an image i
 ## Usage
 ### Hide a Message
 ```sh
-python encrypt.py --hide --image input.png --message "Secret Message" --output output.png
+python encrypt.py
 ```
 
 ### Extract a Message
 ```sh
-python decrypt.py --extract --image output.png
+python decrypt.py
 ```
 
 ## Security Considerations
